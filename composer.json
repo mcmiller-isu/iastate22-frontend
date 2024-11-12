@@ -1,5 +1,5 @@
 {
-    "name": "iastate/frontend-component-library",
+    "name": "mcmiller-isu/iastate22-frontend",
     "description": "Frontend component library for Iowa State University.",
     "type":"library",
     "minimum-stability" : "stable",
